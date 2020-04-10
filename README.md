@@ -9,6 +9,9 @@ Favourite:
 - https://www.hackthebox.eu/
 - https://defendtheweb.net/
 - https://www.vulnhub.com
+- https://www.root-me.org/
+- https://canhack.me/
+- https://halls-of-valhalla.org
 
 Just to list them:
 
