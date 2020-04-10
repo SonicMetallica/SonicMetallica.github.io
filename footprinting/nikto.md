@@ -5,11 +5,11 @@ nikto - Man Page
 Scan web server for known vulnerabilities
 Examples (TL;DR)
 
-    Perform a basic Nikto scan against a target host: perl nikto.pl -h 192.168.0.1
-    Specify the port number when performing a basic scan: perl nikto.pl -h 192.168.0.1 -p 443
-    Scan ports and protocols with full URL syntax: perl nikto.pl -h https://192.168.0.1:443/
-    Scan multiple ports in the same scanning session: perl nikto.pl -h 192.168.0.1 -p 80,88,443
-    Update to the latest plugins and databases: perl nikto.pl -update
+Perform a basic Nikto scan against a target host: perl nikto.pl -h 192.168.0.1
+Specify the port number when performing a basic scan: perl nikto.pl -h 192.168.0.1 -p 443
+Scan ports and protocols with full URL syntax: perl nikto.pl -h https://192.168.0.1:443/
+Scan multiple ports in the same scanning session: perl nikto.pl -h 192.168.0.1 -p 80,88,443
+Update to the latest plugins and databases: perl nikto.pl -update
 
 tldr.sh
 Synopsis
@@ -19,43 +19,43 @@ Description
 
 Examine a web server to find potential problems and security vulnerabilities, including:
 
-    Server and software misconfigurations
-    Default files and programs
-    Insecure files and programs
-    Outdated servers and programs
+Server and software misconfigurations
+Default files and programs
+Insecure files and programs
+Outdated servers and programs
 
 Nikto is built on LibWhisker (by RFP) and can run on any platform which has a Perl environment. It supports SSL, proxies, host authentication, IDS evasion and more. It can be updated automatically from the command-line, and supports the optional submission of updated version data back to the maintainers.
 Options
 
 Below are all of the Nikto command line options and explanations. A brief version of this text is available by running Nikto with the -h (-help) option.
 
-    -Cgidirs
+-Cgidirs
 
-    Scan these CGI directories. Special words "none" or "all" may be used to scan all CGI directories or none, (respectively). A literal value for a CGI directory such as "/cgi-test/" may be specified (must include trailing slash). If this is option is not specified, all CGI directories listed in config.txt will be tested.
+Scan these CGI directories. Special words "none" or "all" may be used to scan all CGI directories or none, (respectively). A literal value for a CGI directory such as "/cgi-test/" may be specified (must include trailing slash). If this is option is not specified, all CGI directories listed in config.txt will be tested.
 
-    -config
+-config
 
-    Specify an alternative config file to use instead of the config.txt located in the install directory.
+Specify an alternative config file to use instead of the config.txt located in the install directory.
 
-    -dbcheck
+-dbcheck
 
-    Check the scan databases for syntax errors.
+Check the scan databases for syntax errors.
 
-    -Display
+-Display
 
-    Control the output that Nikto shows. See Chapter 5 for detailed information on these options. Use the reference number or letter to specify the type, multiple may be used:
+Control the output that Nikto shows. See Chapter 5 for detailed information on these options. Use the reference number or letter to specify the type, multiple may be used:
 
-    1 - Show redirects
+1 - Show redirects
 
-    2 - Show cookies received
+2 - Show cookies received
 
-    3 - Show all 200/OK responses
+3 - Show all 200/OK responses
 
-    4 - Show URLs which require authentication
+4 - Show URLs which require authentication
 
-    D - Debug Output
+D - Debug Output
 
-    V - Verbose Output
+V - Verbose Output
 
     -evasion
 
