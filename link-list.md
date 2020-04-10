@@ -26,3 +26,4 @@ Just to list them:
 #3. Youtuber
 
 - [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured)
+- [Null-Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
