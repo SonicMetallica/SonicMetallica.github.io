@@ -5,23 +5,23 @@ I will writte on my github page about everything i learn. And i gather websites 
 
 Favourite:
 
-- https://www.hackthebox.eu/
-- https://defendtheweb.net/
-- https://www.vulnhub.com
-- https://www.root-me.org/
-- https://canhack.me/
-- https://halls-of-valhalla.org
+-   https://www.hackthebox.eu/
+-   https://defendtheweb.net/
+-   https://www.vulnhub.com
+-   https://www.root-me.org/
+-   https://canhack.me/
+-   https://halls-of-valhalla.org
 
 Just to list them:
 
-- (https://www.rankk.org/)
-- (https://thisislegal.com/)
-- (https://www.hackthissite.org/)
-- (https://www.wechall.net/)
+- http://www.rankk.org/
+- http://thisislegal.com/
+- http://www.hackthissite.org/
+- http://www.wechall.net/
 
 #2. Websites with usefull Databases
 
-- https://www.exploit-db.com
+https://www.exploit-db.com
 
 #3. Youtuber
 
