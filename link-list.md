@@ -14,10 +14,10 @@ Favourite:
 
 Just to list them:
 
-- https://www.rankk.org/
-- https://thisislegal.com/
-- https://www.hackthissite.org/
-- https://www.wechall.net/
+- (https://www.rankk.org/)
+- (https://thisislegal.com/)
+- (https://www.hackthissite.org/)
+- (https://www.wechall.net/)
 
 #2. Websites with usefull Databases
 

@@ -8,17 +8,17 @@ I will writte on my github page about everything i learn. And i gather websites 
         
         CTF:
         
-        www.SonicMetallica.github.io/link-list
+        - www.SonicMetallica.github.io/link-list
 
 # 2.Pentest-Course-Course-Summary
         
         Nikto:
         
-        SonicMetallica.github.io/footprinting/nikto
+        - SonicMetallica.github.io/footprinting/nikto
         
         Whois:
         
-        www.SonicMetallica.github.io/footprinting/whois
+        - www.SonicMetallica.github.io/footprinting/whois
 
 # 3.Usefull
 
@@ -27,7 +27,7 @@ I will writte on my github page about everything i learn. And i gather websites 
         
         usefull commands:
         
-        www.SonicMetallica.github.io/usefull/usefullcommands
+        - www.SonicMetallica.github.io/usefull/usefullcommands
 
 
 
