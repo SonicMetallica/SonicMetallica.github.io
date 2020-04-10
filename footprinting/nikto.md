@@ -1,6 +1,5 @@
 Nikto
 
-
 nikto - Man Page
 
 Scan web server for known vulnerabilities
@@ -30,7 +29,6 @@ Options
 
 Below are all of the Nikto command line options and explanations. A brief version of this text is available by running Nikto with the -h (-help) option.
 
-    
     -Cgidirs
 
     Scan these CGI directories. Special words "none" or "all" may be used to scan all CGI directories or none, (respectively). A literal value for a CGI directory such as "/cgi-test/" may be specified (must include trailing slash). If this is option is not specified, all CGI directories listed in config.txt will be tested.
@@ -38,7 +36,7 @@ Below are all of the Nikto command line options and explanations. A brief versio
     -config
 
     Specify an alternative config file to use instead of the config.txt located in the install directory.
-    
+
     -dbcheck
 
     Check the scan databases for syntax errors.
@@ -102,11 +100,11 @@ Below are all of the Nikto command line options and explanations. A brief versio
     -Help
 
     Display extended help information.
-    
+
     -id
 
     ID and password to use for host Basic host authentication. Format is "id:password".
-    
+
     -list-plugins
 
     Will list all plugins that Nikto can run against targets and then will exit without performing a scan. These can be tuned for a session using the -plugins option.
@@ -142,7 +140,7 @@ Below are all of the Nikto command line options and explanations. A brief versio
     -nolookup
 
     Do not perform name lookups on IP addresses.
-    
+
     -nossl
 
     Do not use SSL to connect to the server.
@@ -164,7 +162,7 @@ Below are all of the Nikto command line options and explanations. A brief versio
     -port
 
     TCP port(s) to target. To test more than one port on the same host, specify the list of ports in the -p (-port) option. Ports can be specified as a range (i.e., 80-90), or as a comma-delimited list, (i.e., 80,88,90). If not specified, port 80 is used.
-    
+
     -Pause
 
     Seconds to delay between each test.
@@ -176,15 +174,15 @@ Below are all of the Nikto command line options and explanations. A brief versio
     -ssl
 
     Only test SSL on the ports specified. Using this option will dramatically speed up requests to HTTPS ports, since otherwise the HTTP request will have to timeout first.
-    
+
     -Single
 
     Perform a single request to a target server. Nikto will prompt for all options which can be specified, and then report the detailed output. See Chapter 5 for detailed information.
-    
+
     -timeout
 
     Seconds to wait before timing out a request. Default timeout is 10 seconds.
-    
+
     -Tuning
 
     Tuning options will control the test that Nikto will use against a target. By default, if any options are specified, only those tests will be performed. If the "x" option is used, it will reverse the logic and exclude only those tests. Use the reference number or letter to specify the type, multiple may be used:
@@ -218,19 +216,19 @@ Below are all of the Nikto command line options and explanations. A brief versio
     x - Reverse Tuning Options (i.e., include all except specified)
 
     The given string will be parsed from left to right, any x characters will apply to all characters to the right of the character.
-    
+
     -useproxy
 
     Use the HTTP proxy defined in the configuration file.
-    
+
     -update
 
     Update the plugins and databases directly from cirt.net.
-    
+
     -Version
 
     Display the Nikto software, plugin and database versions.
-    
+
     -vhost
 
     Specify the Host header to be sent to the target.
