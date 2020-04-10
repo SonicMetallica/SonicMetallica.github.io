@@ -4,13 +4,13 @@ I will writte on my github page about everything i learn. And i gather websites 
 
 #1. Websites for learning i like:
 
-https://www.hackthebox.eu/
-https://defendtheweb.net/
-https://www.vulnhub.com
+- https://www.hackthebox.eu/
+- https://defendtheweb.net/
+- https://www.vulnhub.com
 
 #2. Websites with usefull Databases
 
-https://www.exploit-db.com
+- https://www.exploit-db.com
 
 #3. Youtuber
 
