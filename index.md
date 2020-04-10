@@ -6,18 +6,24 @@ I will writte on my github page about everything i learn. And i gather websites 
 
     1.1 CTF CHALLENGES
         
-        [CTF](SonicMetallica.github.io/link-list)
+        CTF:
+        SonicMetallica.github.io/link-list
 
 # 2.Pentest-Course-Course-Summary
         
-        [Nikto](SonicMetallica.github.io/footprinting/nikto)
-        [Whois]((SonicMetallica.github.io/footprinting/whois)
+        Nikto:
+        SonicMetallica.github.io/footprinting/nikto
+        
+        Whois:
+        SonicMetallica.github.io/footprinting/whois
 
 # 3.Usefull
 
     3.1 Usefullcommands
          
-        [usefull commands](SonicMetallica.github.io/usefull/usefullcommands)
+        
+        usefull commands:
+        SonicMetallica.github.io/usefull/usefullcommands
 
 
 
