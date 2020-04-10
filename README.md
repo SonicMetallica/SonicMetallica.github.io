@@ -4,9 +4,18 @@ I will writte on my github page about everything i learn. And i gather websites 
 
 #1. Websites for learning i like:
 
+Favourite:
+
 - https://www.hackthebox.eu/
 - https://defendtheweb.net/
 - https://www.vulnhub.com
+
+Just to list them:
+
+- https://www.rankk.org/
+- https://thisislegal.com/
+- https://www.hackthissite.org/
+- https://www.wechall.net/
 
 #2. Websites with usefull Databases
 
