@@ -21,3 +21,5 @@ I will writte on my github page about everything i learn. And i gather websites 
 
 
 
+
+- [About me](/aboutme)
