@@ -4,7 +4,7 @@ I will writte on my github page about everything i learn. And i gather websites 
 
 ### 1. Linklist
         
-- [CTF](links/link-list)
+- [CTF](/links/link-list)
 
 ### 2. Pentest-Tools
         
