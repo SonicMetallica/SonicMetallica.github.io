@@ -2,13 +2,13 @@
 
 - [Hello World](/cplusplus/helloworld)
 
-- [Variables](/variables)
+- [Variables](/cplusplus/variables)
 
-- [Strings](/strings)
+- [Strings](/cplusplus/strings)
 
-- [Userinput](/userinput)
+- [Userinput](/cplusplus/userinput)
 
-- [Intger Types](/intgertypes)
+- [Intger Types](/cplusplus/intgertypes)
 
 
 
