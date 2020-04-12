@@ -1,11 +1,9 @@
 ### Nikto
 
-nikto - Man Page
 
-Scan web server for known vulnerabilities
-Examples (TL;DR)
+With Nikto you can scan webservers for known vulnerabilities as example.
 
-Perform a basic Nikto scan against a target host: perl nikto.pl -h 192.168.0.1
+With the following command you can perform a basic attack against a target: perl nikto.pl -h 192.168.0.1
 
 Specify the port number when performing a basic scan: perl nikto.pl -h 192.168.0.1 -p 443
 S
@@ -236,3 +234,21 @@ Display the Nikto software, plugin and database versions.
 - vhost
 
 Specify the Host header to be sent to the target.
+
+AUTHORS
+
+Nikto was originally written and maintained by Sullo, CIRT, Inc. It is currently maintained by David Lodge. See the main documentation for other contributors.
+
+All code is (C) CIRT, Inc., except LibWhisker which is (C) rfp.labs (wiretrip.net). Other portions of code may be (C) as specified.
+SEE ALSO
+
+Nikto Homepage[1]
+NOTES
+
+1.
+    Nikto Homepage
+
+        http://www.cirt.net/ 
+
+
+source: [(https://www.systutorials.com/docs/linux/man/1-nikto/)](https://www.systutorials.com/docs/linux/man/1-nikto/)
