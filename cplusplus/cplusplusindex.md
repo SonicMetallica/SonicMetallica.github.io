@@ -1,14 +1,14 @@
 # C++
 
-- [Hello World](cplusplus/helloworld)
+- [Hello World](/helloworld)
 
-- [Variables](cplusplus/variables)
+- [Variables](/variables)
 
-- [Strings](cplusplus/strings)
+- [Strings](/strings)
 
-- [Userinput](cplusplus/userinput)
+- [Userinput](/userinput)
 
-- [Intger Types](cplusplus/intgertypes)
+- [Intger Types](/intgertypes)
 
 
 
