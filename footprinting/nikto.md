@@ -19,7 +19,7 @@ Synopsis
 /usr/local/bin/nikto [options...]
 Description
 
-Examine a web server to find potential problems and security vulnerabilities, including:
+Examine a web server to find possible problems and security issues, including:
 
 Server and software misconfigurations
 Default files and programs
@@ -29,11 +29,11 @@ Outdated servers and programs
 Nikto is built on LibWhisker (by RFP) and can run on any platform which has a Perl environment. It supports SSL, proxies, host authentication, IDS evasion and more. It can be updated automatically from the command-line, and supports the optional submission of updated version data back to the maintainers.
 Options
 
-Below are all of the Nikto command line options and explanations. A brief version of this text is available by running Nikto with the -h (-help) option.
+Beneath are all of the Nikto commands, options and explanations. A small version of this text is available by entering Nikto with the -h (-help) option.
 
 - Cgidirs
 
-Scan these CGI directories. Special words "none" or "all" may be used to scan all CGI directories or none, (respectively). A literal value for a CGI directory such as "/cgi-test/" may be specified (must include trailing slash). If this is option is not specified, all CGI directories listed in config.txt will be tested.
+Scan these CGI directories. Special words "none" or "all" may be used to scan all CGI directories or none. A literal value for a CGI directory such as "/cgi-test/" may be specified (must include trailing slash). If this is option is not specified, all CGI directories listed in config.txt will be tested.
 
 - config
 
@@ -237,15 +237,10 @@ Specify the Host header to be sent to the target.
 
 AUTHORS
 
-Nikto was originally written and maintained by Sullo, CIRT, Inc. It is currently maintained by David Lodge. See the main documentation for other contributors.
+Nikto was originally written and updated by Sullo, CIRT, Inc. It is currently updated by David Lodge. See the main documentation for additional contributors.
 
 All code is (C) CIRT, Inc., except LibWhisker which is (C) rfp.labs (wiretrip.net). Other portions of code may be (C) as specified.
+
 SEE ALSO
 
-Nikto Homepage[1]
-NOTES
-
 [Nikto Homepage](http://www.cirt.net/) 
-
-
-source: [(https://www.systutorials.com/docs/linux/man/1-nikto/)](https://www.systutorials.com/docs/linux/man/1-nikto/)
