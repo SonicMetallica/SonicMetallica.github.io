@@ -2,24 +2,20 @@
 
 I will writte on my github page about everything i learn. And i gather websites and tools to learn.
 
-### 1.Linklist
+### 1. Linklist
         
 - [CTF](links/link-list)
 
-### 2.Pentest-Tools
+### 2. Pentest-Tools
         
 - [NIKTO](/footprinting/nikto)    
 - [WHOIS](/footprinting/whois)
 
-### 3.Usefull
+### 3. Usefull
 
 - [Usefull commands](/usefull/usefullcommands)
 
+### 4. Course-Notes
 
+- [C++](/cplusplus/cplusplusindex)
 
-
-
-
-
-
-- [About me](/aboutme)
