@@ -245,10 +245,7 @@ SEE ALSO
 Nikto Homepage[1]
 NOTES
 
-1.
-    Nikto Homepage
-
-        http://www.cirt.net/ 
+[Nikto Homepage](http://www.cirt.net/) 
 
 
 source: [(https://www.systutorials.com/docs/linux/man/1-nikto/)](https://www.systutorials.com/docs/linux/man/1-nikto/)
