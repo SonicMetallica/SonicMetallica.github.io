@@ -1,6 +1,6 @@
 # C++
 
-- [Hello World](/helloworld)
+- [Hello World](/cplusplus/helloworld)
 
 - [Variables](/variables)
 
