@@ -1,5 +1,5 @@
 
-I will writte on my github page about everything i learn. And i gather websites and tools to learn.
+I will writte on my github page about everything i learn and gather websites and tools to learn.
 
 #1. Websites for learning i like:
 
