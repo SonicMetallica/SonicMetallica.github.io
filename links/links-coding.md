@@ -7,6 +7,7 @@
 
 ## Websites to learn coding with games (FREE)
 
+- [https://www.learnshell.org/](https://www.learnshell.org/)
 - [https://checkio.org/](https://checkio.org/)
 - [http://play.elevatorsaga.com/](http://play.elevatorsaga.com/)
 - [https://www.codemonkey.com/](https://www.codemonkey.com/)
@@ -19,6 +20,10 @@
 
 ## Websites for learning bash
 
+- [https://github.com/trybash/game](https://github.com/trybash/game)
+- [http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+- [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
+- [https://opensource.com/article/19/10/learn-bash-command-line-games](https://opensource.com/article/19/10/learn-bash-command-line-games)
 - [https://www.tldp.org/LDP/Bash-Beginners-Guide/html/](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [https://www.bash.academy/](https://www.bash.academy/)
