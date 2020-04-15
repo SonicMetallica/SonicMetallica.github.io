@@ -17,6 +17,13 @@
 - [https://www.bloc.io/ruby-warrior#/](https://www.bloc.io/ruby-warrior#/)
 - [http://www.hacker.org](http://www.hacker.org)
 
+## Websites for learning bash
+
+- [https://www.tldp.org/LDP/Bash-Beginners-Guide/html/](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [https://www.bash.academy/](https://www.bash.academy/)
+- [https://regexr.com/](https://regexr.com/)
+
 ## Coding Challenges
 
 - [https://www.codingame.com/start](https://www.codingame.com/start)
