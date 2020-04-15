@@ -3,6 +3,8 @@ I will writte on my github page about everything i learn and gather websites and
 
 #1. Websites for learning i like:
 
+-   Special Site: [https://www.amanhardikar.com/mindmaps/Practice.html](https://www.amanhardikar.com/mindmaps/Practice.html)
+
 Favourite:
 
 -  [https://tryhackme.com](https://tryhackme.com)
@@ -12,6 +14,7 @@ Favourite:
 -  [https://www.root-me.org/](https://www.root-me.org/)
 -  [https://canhack.me/](https://canhack.me/)
 -  [https://halls-of-valhalla.org](https://halls-of-valhalla.org)
+-  [https://attackdefense.com/](https://attackdefense.com/)
 
 Just to list them:
 
